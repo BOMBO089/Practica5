@@ -1,0 +1,18 @@
+Ejercicios a resolver
+
+1. Hacer diagrama de flujo y pseudocodigo que genere la siguiente
+serie 5 , 10 , 15 , 20 ,...
+Se preguntara primero cuantas cifras se
+mostraran y posteriormente se mostrara la serie.
+
+
+2. Hacer diagrama de flujo y pseudocodigo que pida al usuario un
+numero y muestre el mensaje “has introducido el numero...”. Esta
+acción se repetirá hasta que el usuario introduzca el numero -1 . En
+ese momento se mostrara “Finalizado: has introducido el numero -1” .
+Ademas debes mostrar cuantos números se introdujeron y su suma.
+
+
+(Laboratorio) 3. Hacer pseudocodigo y diagrama de flujo de la suma
+de los primeros 10 números pares e impares e imprimir las sumas en
+pantalla.
